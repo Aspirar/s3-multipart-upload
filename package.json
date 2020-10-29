@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.780.0",
+    "axios": "^0.21.0"
+  },
+  "name": "s3-multipart-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
